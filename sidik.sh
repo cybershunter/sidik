@@ -24,7 +24,7 @@ figlet LUTFI | lolcat
 
     echo "•••••••••••••••••••••••••••••••••••••••••••••••••••••"
     echo "•tools :Jaringan      : Lutfi aulia sidik           •" | lolcat
-    echo "•team  :LUTFI_sks     : 085********                 •" | lolcat
+    echo "•team  :Cyber_hunters : 085********                 •" | lolcat
     echo "•NO WA :085323354869  : lutfi sidik                 •" | lolcat
     echo "•••••••••••••••••••••••••••••••••••••••••••••••••••••"
 
@@ -114,4 +114,3 @@ else
    sleep 2
    echo "\033[1;31mCobalagi masukan nomer yang tersedia"
 fi
-    
